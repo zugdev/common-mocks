@@ -10,7 +10,7 @@ contract DeployMockChainlinkAggregator is Script {
 
         vm.startBroadcast(deployerPrivateKey);
 
-        new MockChainlinkAggregator(1);
+        new MockChainlinkAggregator(60000);
 
         vm.stopBroadcast();
     }

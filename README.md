@@ -17,3 +17,6 @@ MockUSD: [0xF32f420d4A201E09Ad13997Dd742Bb0E02d9E88e](https://sepolia.etherscan.
 
 MockUSDChainlinkAggregator: [0xf886fF30C649Bd7CcAf9B9117437Cf00814DEf25](https://sepolia.etherscan.io/address/0xf886fF30C649Bd7CcAf9B9117437Cf00814DEf25)
 
+MockWBTC: [0xaeE61e02388D1490627d2577c31507024127285c](https://sepolia.etherscan.io/address/0xaeE61e02388D1490627d2577c31507024127285c)
+
+MockBTCChainlinkAggregator: [0x1Bb69E47630063194bAcB242dA51f4f732208380](https://sepolia.etherscan.io/address/0x1Bb69E47630063194bAcB242dA51f4f732208380)
