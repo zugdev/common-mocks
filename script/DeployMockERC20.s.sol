@@ -10,7 +10,7 @@ contract DeployMockERC20 is Script {
 
         vm.startBroadcast(deployerPrivateKey);
 
-        new MockERC20("Wrapped Bitcoin", "WBTC", 100000e18);
+        new MockERC20("Palladium USD", "PUSD", 100000e18);
 
         vm.stopBroadcast();
     }
