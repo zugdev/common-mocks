@@ -9,6 +9,10 @@ contract MockChainlinkAggregator {
         mockPrice = _mockPrice;
     }
 
+    function decimals() external pure returns (uint8){
+        return 8;
+    }
+
     function latestAnswer() external view returns (int256){
         return mockPrice * 1e8;
     }
