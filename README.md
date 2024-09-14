@@ -15,10 +15,10 @@ forge script DeployMockChainlinkAggregator --rpc-url sepolia --private-key $PRIV
 
 MockUSD: [0xF32f420d4A201E09Ad13997Dd742Bb0E02d9E88e](https://sepolia.etherscan.io/address/0xf32f420d4a201e09ad13997dd742bb0e02d9e88e)
 
-MockUSDChainlinkAggregator: [0xf886fF30C649Bd7CcAf9B9117437Cf00814DEf25](https://sepolia.etherscan.io/address/0xf886fF30C649Bd7CcAf9B9117437Cf00814DEf25)
+MockUSDChainlinkAggregator: [0xbe356bfa4541023a8d07ca4f4a215e10c0401e3a](https://sepolia.etherscan.io/address/0xbe356bfa4541023a8d07ca4f4a215e10c0401e3a)
 
 MockWBTC: [0xaeE61e02388D1490627d2577c31507024127285c](https://sepolia.etherscan.io/address/0xaeE61e02388D1490627d2577c31507024127285c)
 
-MockBTCChainlinkAggregator: [0x1Bb69E47630063194bAcB242dA51f4f732208380](https://sepolia.etherscan.io/address/0x1Bb69E47630063194bAcB242dA51f4f732208380)
+MockBTCChainlinkAggregator: [0x5e285a7a60af46Df71E0dCF0acfa013764912718](https://sepolia.etherscan.io/address/0x5e285a7a60af46Df71E0dCF0acfa013764912718)
 
 MockPUSD: [0x8256F9dE96aA992Aa46a119C2604d329F1c09c56](https://sepolia.etherscan.io/address/0x8256f9de96aa992aa46a119c2604d329f1c09c56)
